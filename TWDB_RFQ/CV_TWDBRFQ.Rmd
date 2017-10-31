@@ -1,24 +1,23 @@
 ---
-output: 
+title: "CV"
+author: "Michael Schramm"
+email: mpschramm@gmail.com
+output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=1in
-  
-title: "CV"
-author: Michael Schramm
-
-address: "578 John Kimbrough Blvd · 2260 TAMU · College Station, TX 77843"
-fontawesome: yes
-email: mpschramm@gmail.com
-phone: "910 232-3760"
-github: "mps9506"
-updated: no
-
+  html_document:
+    df_print: paged
+  word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
 linkcolor: blue
+fontawesome: yes
+phone: 910 232-3760
+address: 578 John Kimbrough Blvd Ã‚Â· 2260 TAMU Ã‚Â· College Station, TX 77843
+updated: no
 urlcolor: blue
 ---
 
@@ -47,7 +46,17 @@ Research Assistant \hfill 2012-2013
 
 # Skills
 
-Environmental and Water Policy Analysis, GIS, `Python`, Qualitative and Quantitative Data Analysis, `R`, Technical Writing, Water Quality Assessment
+GIS, `Python`, `R`, Environmental and Water Policy Analysis, Qualitative and Quantitative Data Analysis, Technical Writing, Water Quality Assessment and Modeling, Stakeholder Planning and Facilitation
+
+# Relevant Project Experience
+
+2016 - Current: *Addressing Bacteria Impairements in the Matagorda Basins.* TCEQ sponsored project to engage stakeholders, gather water quality data, modeling data, and develop watershed protection plans to improve water quality.
+
+2014-2016: *Hydropower Mitigation at FERC Licensed Facilities.* Department of Energy sponsored project to develop a database of environmental and recreation mitigation requirements at non-federal hydropower facilities to assist with optimization scenarios and reduce regulatory uncertainty.
+
+2011-2013: *Science, Energy, and Technology Policy Analysis.* Delaware General Assembly sponsored projects to develop policy analysis and case studies to improve implementation of various best practices affecting stormwater, water quality, and human health in Delaware. 
+
+
 
 # Publications
 
