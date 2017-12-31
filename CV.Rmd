@@ -1,24 +1,23 @@
 ---
-output: 
+title: "CV"
+author: "Michael Schramm"
+email: mpschramm@gmail.com
+output:
+  html_document:
+    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
-geometry: margin=1in
-  
-title: "CV"
-author: Michael Schramm
-
-address: "578 John Kimbrough Blvd · 2260 TAMU · College Station, TX 77843"
-fontawesome: yes
-email: mpschramm@gmail.com
-phone: "910 232-3760"
-github: "mps9506"
-updated: no
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
+github: mps9506
 linkcolor: blue
+fontawesome: yes
+phone: 910 232-3760
+address: 578 John Kimbrough Blvd · 2260 TAMU · College Station, TX 77843
+updated: no
 urlcolor: blue
 ---
 
