@@ -50,7 +50,7 @@ Environmental and Water Policy Analysis, GIS, `Python`, Qualitative and Quantita
 
 ## Journal Articles
 
-**Schramm, M.P.**, Bevelhimer, M.S., Scherelis, C. 2017. Effects of hydrokinetic turbine sound on the behavior of four species of fish within an experimental mesocosm. *Fisheries Research* 190:1-14.
+**Schramm, M.P.**, Bevelhimer, M.S., Scherelis, C. 2017. Effects of hydrokinetic turbine sound on the behavior of four species of fish within an experimental mesocosm. *Fisheries Research* 190:1-14. doi:10.1016/j.fishres.2017.01.012
 
 DeRolph, C.R., **Schramm, M.P.**, Bevelhimer, M.S. 2016. Predicting environmental mitigation requirements for hydropower projects through the integration of biophysical and socio-political geographies. *Science of The Total Environment* 566:888-918. doi:10.1016/j.scitotenv.2016.05.099
 
@@ -61,6 +61,8 @@ Pracheil, B.M., DeRolph C.R., **Schramm, M.P.**, Bevelhimer, M.S. 2016. A fish-e
 Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Spill the beans: GoodGuide, Walmart and EPA use information as efficient, market-based environmental regulation. *Tul. Envtl. LJ* 24:291.
 
 ## Other Publications
+
+**Schramm, M.P.**, Entwistle, C., Berthold, T. 2018. Lavaca River Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-507. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-507/
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2017. Tres Palacios Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-500. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2017/tr-500/
 
@@ -78,6 +80,8 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 **Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.0. (CRAN).* https://CRAN.R-project.org/package=echor
 
+**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.0 (CRAN)* https://CRAN.R-project.org/package=tbrf
+
 ## Datasets
 
 Bevelhimer, M.S., **Schramm, M.P.** , DeRolph, C.R. 2015. Non-Federal Hydropower Mitigation Database, Oak Ridge National Laboratory, available at: http://nhaap.ornl.gov/environmental-mitigation
@@ -88,7 +92,7 @@ Bevelhimer, M.S., **Schramm M.P.**, C.R. DeRolph 2015. US Maps of Non-Federal Hy
 
 ## Forthcoming
 
-**Schramm, M.P.**, Entwistle, C., Berthold, T. (Forthcoming). Lavaca River Watershed Protection Plan. Technical report, Texas Water Resources Institute. College Station, TX.
+Jain, S., Ruff, S., **Schramm, M.** (Forthcoming). Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX.
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. (Forthcoming). Implementation Plan for Two Total Maximum Daily Loads for Indicator Bacteria in Lavaca River Above Tidal and Rocky Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX.
 
