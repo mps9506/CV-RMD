@@ -62,6 +62,8 @@ Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Sp
 
 ## Other Publications
 
+**Schramm, M.P.**, Broad, T., Arsuffi, R. 2018. *Escherichia coli* and Dissolved Oxygen Trends in the Upper Llano River Watershed, Texas (2001-2016). Technical Report, Texas Water Resources Institute TR-511. Prepared by the Texas Water Resources Institute and Llano River Field Station for the Texas State Soil and Water Conservation Board. Temple, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-511/
+
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2018. Lavaca River Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-507. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-507/
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2017. Tres Palacios Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-500. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2017/tr-500/
@@ -78,9 +80,14 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 ## Software
 
-**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.0. (CRAN).* https://CRAN.R-project.org/package=echor
+*Author*
+
+**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.1. (CRAN).* https://CRAN.R-project.org/package=echor
 
 **Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.0 (CRAN)* https://CRAN.R-project.org/package=tbrf
+
+*Contributor*
+
 
 ## Datasets
 
@@ -88,7 +95,7 @@ Bevelhimer, M.S., **Schramm, M.P.** , DeRolph, C.R. 2015. Non-Federal Hydropower
 
 Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal Hydropower Mitigation Data, Oak Ridge National Laboratory, available at: http://nhaap.ornl.gov/environmental-mitigation
 
-Bevelhimer, M.S., **Schramm M.P.**, C.R. DeRolph 2015. US Maps of Non-Federal Hydropower Water Quality Requirements, Oak Ridge National Laboratory, available at: http://nhaap.ornl.gov/environmental-mitigation
+Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal Hydropower Water Quality Requirements, Oak Ridge National Laboratory, available at: http://nhaap.ornl.gov/environmental-mitigation
 
 ## Forthcoming
 
@@ -96,4 +103,36 @@ Jain, S., Ruff, S., **Schramm, M.** (Forthcoming). Technical Support Document fo
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. (Forthcoming). Implementation Plan for Two Total Maximum Daily Loads for Indicator Bacteria in Lavaca River Above Tidal and Rocky Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX.
 
-**Schramm, M.P.**, Broad, T., Arsuffi, R. (Forthcoming). *Escherichia coli* and Dissolved Oxygen Trends in the Upper Llano River Watershed, Texas (2001-2016). Prepared by the Texas Water Resources Institute and the Llano River Field Station for the Texas State Soil and Water Conservation Board. Temple, TX.
+## Grants
+
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY19); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$139,343. Amount to Schramm: \$139,343.
+
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY19); PI: Allen Berthold. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$97,399. Amount to Schramm: \$97,399.
+
+*Texas Commision on Environmental Quality*: Lavaca River Watershed Protection Plan (WPP) - Coordination, implementation and routine water quality; PI: Allen Berthold. Project Lead: Michael Schramm. September 2018 - August 2021. Total: \$150,000. Amount to Schramm: \$124,910.
+
+*Texas Commision on Environmental Quality*: Tres Palacios on-site sewage facilities remediation; PI: Allen Berthold. Project Lead: Michael Schramm. May 2018 - December 2020. Total: \$327,361. Amount to Schramm: \$327,361.
+
+*Texas Commision on Environmental Quality*: Tres Palacios WPP implementation (TCEQ FY17); PI: Allen Berthold. Project Lead: Michael Schramm. May 2018 - December 2020. Total: \$355,800. Amount to Schramm: \$235,866.
+
+*Texas General Land Office*: Mission and Aransas Rivers TMDL I-Plan implementation; PI: Allen Berthold. Project Lead: Michael Schramm. October 2017-March 2019. Total: \$83,979. Amount to Schramm: \$83,979.
+
+*Texas General Land Office*: Coordinating implementation of the Tres Palacios Watershed Protection Plan; PI: Allen Berthold. Project Lead: Michael Schramm. October 2017-March 2019. Total: \$95,816. Amount to Schramm: \$95,816.
+
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY18); PI: Allen Berthold. Project Lead: Michael Schramm. September 2017-August 2018. Total: \$220,166. Amount to Schramm: \$179,996.
+
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY17); PI: Allen Berthold. Project Lead: Michael Schramm. September 2016-August 2017. Total: \$292,699. Amount to Schramm: \$229,649.
+
+# Media Coverage of Projects
+
+**Water Quality Projects**
+
+"Experts gather to discuss Arenosa Creek's water quality": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/news/agriculture/experts-gather-to-discuss-arenosa-creek-s-water-quality/article_15aea768-a18c-11e8-80e4-f320cf54cbe6.html)
+
+"Group finalizes watershed protection plan": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/counties/jackson/group-finalizes-watershed-protection-plan/article_3b443b45-800a-5f0c-b455-95bd629a1ef7.html)
+
+"Residents look to improve Lavaca River quality": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/news/local/residents-look-to-improve-lavaca-river-quality/article_66dfd2be-7e12-5916-9c20-9f751f78c497.html)
+
+**Software**
+
+"April 2018: "Top 40" New Packages: R-Studio blog.[Link here](https://rviews.rstudio.com/2018/05/24/april-2018-top-40-new-packages/)
