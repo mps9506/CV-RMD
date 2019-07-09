@@ -22,7 +22,7 @@ urlcolor: blue
 
 # Employment
 
-*Texas Water Resources Institute, Texas A & M University*
+*Texas Water Resources Institute, Texas A&M University*
 
 Research Associate \hfill 2016-Current
 
@@ -62,6 +62,8 @@ Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Sp
 
 ## Other Publications
 
+Jain, S., Ruff, S., **Schramm, M.** 2018. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/108arenosa/108-arenosa-tsd-final.pdf
+
 **Schramm, M.P.**, Broad, T., Arsuffi, R. 2018. *Escherichia coli* and Dissolved Oxygen Trends in the Upper Llano River Watershed, Texas (2001-2016). Technical Report, Texas Water Resources Institute TR-511. Prepared by the Texas Water Resources Institute and Llano River Field Station for the Texas State Soil and Water Conservation Board. Temple, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-511/
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2018. Lavaca River Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-507. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-507/
@@ -82,9 +84,9 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 *Author*
 
-**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.1. (CRAN).* https://CRAN.R-project.org/package=echor
+**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.2 (CRAN).* https://CRAN.R-project.org/package=echor
 
-**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.0 (CRAN)* https://CRAN.R-project.org/package=tbrf
+**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.2 (CRAN)* https://CRAN.R-project.org/package=tbrf
 
 *Contributor*
 
@@ -99,9 +101,11 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 ## Forthcoming
 
-Jain, S., Ruff, S., **Schramm, M.** (Forthcoming). Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX.
+**Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for Four Total Maximum Daily Loads for Indicator Bacteria in Neches River Tidal . Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
 
-**Schramm, M.P.**, Entwistle, C., Berthold, T. (Forthcoming). Implementation Plan for Two Total Maximum Daily Loads for Indicator Bacteria in Lavaca River Above Tidal and Rocky Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX.
+**Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Hillebrandt Bayou. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
+
+**Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
 
 ## Grants
 
