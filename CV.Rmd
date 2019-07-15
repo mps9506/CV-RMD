@@ -22,9 +22,10 @@ urlcolor: blue
 
 # Employment
 
-*Texas Water Resources Institute, Texas A&M University*
+*Texas Water Resources Institute, Texas A&M AgriLife Research and Extension Service*
 
-Research Associate \hfill 2016-Current
+Research Specialist III \hfill 2019-current  
+Research Associate \hfill 2016-2019
 
 *Oak Ridge National Laboratory, Oak Ridge, TN*
 
@@ -44,7 +45,7 @@ Research Assistant \hfill 2012-2013
 
 # Skills
 
-Environmental and Water Policy Analysis, GIS, `Python`, Qualitative and Quantitative Data Analysis, `R`, Technical Writing, Water Quality Assessment
+Data Analysis, Environmental Policy, GIS, Grant Writing, Policy Analysis, `Python`, `R`, Reproducible Research, Stakeholder Facilitation, Technical Writing, Water Quality Modeling and Assessment, Watershed Planning
 
 # Publications
 
@@ -82,14 +83,9 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 ## Software
 
-*Author*
-
 **Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.2 (CRAN).* https://CRAN.R-project.org/package=echor
 
 **Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.2 (CRAN)* https://CRAN.R-project.org/package=tbrf
-
-*Contributor*
-
 
 ## Datasets
 
