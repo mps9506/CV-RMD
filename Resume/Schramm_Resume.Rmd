@@ -1,0 +1,105 @@
+---
+name: Michael
+surname: Schramm
+position: "Research Specialist"
+address: "3406 Judythe Ct. Bryan, TX 77803"
+phone: 910 232 3760
+www: michaelpaulschramm.com
+email: "mpschramm@gmail.com"
+twitter: mpschramm
+github: mps9506
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(RefManageR)
+library(vitae)
+```
+
+\setbool{acvSectionColorHighlight}{false}
+
+I am a research professional specializing in water science, policy, and regulation. I leverage spatial and data analytic tools to provide effective visual and written communication that bridge gaps between policy, science, and the public.
+
+# Skills
+
+**Communication:** academic writing, extension and outreach programs, stakeholder facilitation, technical and non-technical reports
+
+**Programatic:** grant writing, project management, proposal development
+
+**Programming and Applications:** ArcGIS, Excel, git (limited), `R`, `Python`
+
+**Water Management and Hydrologic Science:** statistical methods for water quality, TMDL development, water quality policy and regulations, watershed planning
+
+# Employment
+
+```{r Experience}
+library(tibble)
+tribble(
+  ~Year, ~Company, ~Title, ~Description, ~Location,
+  "2019", "Texas Water Resources Institute, Texas A&M AgriLife Research", "Research Specialist III", "Create databases and tools for watershed assesments. Develop the Institute's watershed planning program by working with state agencies and other funding entitites to develop programs and projects. Deliver water quality education and extension programs.", "College Station, TX",
+  "2016 - 2019", "Texas Water Resources Institute, Texas A&M AgriLife Research", "Research Associate", "Provide technical support, lead stakeholder facilitation, and administer project management for the watershed protection plans, TMDLs, and Implementation Plans in Texas", "College Station, TX",
+  "2014-2016", "Oak Ridge National Laboratory/Oak Ridge Associated Universities", "Research Associate", "Responsible for database development, research and analysis, and authoring reports and articles on environmental mitigation of hydropower development", "Oak Ridge, TN",
+  "2013-2014", "Center for Energy and Environmental Policy, University of Delaware", "Graduate Research Assistant", "Responsible for interviews, data analysis, and developing policy reccomendations in reports delived to the state General Assembly", "Newark, DE"
+) %>% 
+  detailed_entries(
+    what = Title,
+    when = Year, 
+    with = Company,
+    where = Location,
+    why = Description
+  )
+```
+
+# Education
+
+```{r Education}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "B.S. Biology", "2004", "University of North Carolina - Wilmington", "Wilmington, NC",
+  "B.A. Environmental Studies", "2011", "University of North Carolina - Wilmington", "Wilmington, NC",
+  "Master of Energy and Environmental Policy", "2013", "University of Delaware", "Newark, DE"
+) %>%
+  arrange(desc(Year)) %>%
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+
+# Selected Publications
+
+```{r Publications}
+# Not sure how to get special charcters escaped in the output bib file.
+# scholar::get_publications("a7KtAHMAAAAJ") %>%
+#   filter(cites >= 10) %>%
+#   distinct(title, .keep_all = TRUE) %>%
+#   transmute(bibtype = "Article", author = as.character(author),
+#             title = as.character(title),
+#             journaltitle = as.character(journal), year, key = row_number()) %>%
+#   RefManageR::as.BibEntry() %>%
+#   RefManageR::WriteBib("schramm.bib")
+
+bibliography_entries("schramm.bib")
+```
+
+
+# Software (R)
+
+```{r Rbib, include=FALSE}
+# Construct bib file for R packages
+source("Rpackages.R")
+write_packages_bib(
+  pkglist = c("echor","tbrf","dartx"),
+  file="Rpackages.bib")
+```
+
+```{r Rpackages}
+
+# Sort R packages by title, then year.
+bibliography_entries("Rpackages.bib",
+  startlabel = "packagestart", endlabel = "packageend"
+) %>%
+  arrange(title, year)
+```
