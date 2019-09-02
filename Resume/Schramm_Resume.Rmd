@@ -21,7 +21,7 @@ library(vitae)
 
 \setbool{acvSectionColorHighlight}{false}
 
-As a research professional providing expertise in water science, policy, and regulation, I leverage statistical and geospatial analysis to bridge the gaps between science and stakeholders. I invest my time in developing open source data tools and methods to ensure transparency and reproduciblity in the work I communicate to the public.
+As a research professional providing expertise in water science, policy, and regulation, I leverage statistical and geospatial analysis to bridge the gaps between science and stakeholders. I invest my time in developing open source data tools and methods to ensure transparency and reproduciblity in the work I communicate to the public. Since 2016, I have authored nine papers or reports on water resources topics. 
 
 # Skills
 
@@ -87,10 +87,14 @@ tribble(
 #   transmute(bibtype = "Article", author = as.character(author),
 #             title = as.character(title),
 #             journaltitle = as.character(journal), year, key = row_number()) %>%
+#   mutate(journaltitle = gsub("&","\\&",journaltitle)) %>%  ## Fix & in title
 #   RefManageR::as.BibEntry() %>%
 #   RefManageR::WriteBib("schramm.bib")
 
-bibliography_entries("schramm.bib")
+bibliography_entries("schramm_pubs.bib") %>%
+  filter(bibtype == "Article") %>%
+  select(-urldate) %>%
+  arrange(date)
 ```
 
 
