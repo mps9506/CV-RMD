@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.8)  2 SEP 2019 09:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.8)  10 SEP 2019 08:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1412,7 +1412,7 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Schramm_Resume.bbl' found.
 (./Schramm_Resume.bbl
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 80.
+(Font)              scaled to size 10.0pt on input line 77.
 )
 Package biblatex Info: Reference section=0 on input line 155.
 Package biblatex Info: Reference segment=0 on input line 155.
@@ -1485,14 +1485,6 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 218.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 218.
-
-Overfull \hbox (3.72026pt too wide) in paragraph at lines 218--218
-\TU/SourceSansPro(1)/m/n/10 quirements at Hydropower Projects in the United Sta
-tes. \TU/SourceSansPro(0)/m/it/10 Environmental Science & Policy \TU/SourceSans
-Pro(0)/bx/n/10 61\TU/SourceSansPro(1)/m/n/10 , 87–96. (Visited on 06/22/2018). 
-
- []
-
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.00107pt on input line 232.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1527,7 +1519,7 @@ Package logreq Info: Writing requests to 'Schramm_Resume.run.xml'.
 Here is how much of TeX's memory you used:
  47272 strings out of 494894
  941598 string characters out of 6174964
- 1490517 words of memory out of 5000000
+ 1490516 words of memory out of 5000000
  50611 multiletter control sequences out of 15000+600000
  537142 words of font info for 113 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

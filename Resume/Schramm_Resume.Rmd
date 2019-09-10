@@ -93,7 +93,6 @@ tribble(
 
 bibliography_entries("schramm_pubs.bib") %>%
   filter(bibtype == "Article") %>%
-  select(-urldate) %>%
   arrange(date)
 ```
 
