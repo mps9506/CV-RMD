@@ -61,7 +61,7 @@ Pracheil, B.M., DeRolph C.R., **Schramm, M.P.**, Bevelhimer, M.S. 2016. A fish-e
 
 Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Spill the beans: GoodGuide, Walmart and EPA use information as efficient, market-based environmental regulation. *Tul. Envtl. LJ* 24:291.
 
-## Other Publications
+## Technical Reports
 
 Jain, S., Ruff, S., **Schramm, M.** 2018. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/108arenosa/108-arenosa-tsd-final.pdf
 
@@ -83,9 +83,13 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 ## Software
 
-**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.2 (CRAN).* https://CRAN.R-project.org/package=echor
+**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.3 (CRAN).* https://CRAN.R-project.org/package=echor
 
-**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.2 (CRAN)* https://CRAN.R-project.org/package=tbrf
+**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.3 (CRAN)* https://CRAN.R-project.org/package=tbrf
+
+**Schramm, M.P.** 2019. `dartx`: Drainage Area Ratio with Correction Factors. *R package version 0.1 (github)* https://github.com/mps9506/dartx
+
+**Schramm, M.P.** 2019. `wd4tx`: R Interface for Texas Water Development Board water data. *R package version 0.0.9999 (github)* https://github.com/mps9506/wd4tx
 
 ## Datasets
 
@@ -105,6 +109,10 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 ## Grants
 
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY20); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$135,790. Amount to Schramm: \$135,790.
+
+*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY20); PI: Allen Berthold. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$51,888. Amount to Schramm: \$51,888.
+
 *Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY19); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$139,343. Amount to Schramm: \$139,343.
 
 *Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY19); PI: Allen Berthold. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$97,399. Amount to Schramm: \$97,399.
@@ -123,16 +131,21 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 *Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY17); PI: Allen Berthold. Project Lead: Michael Schramm. September 2016-August 2017. Total: \$292,699. Amount to Schramm: \$229,649.
 
+*Texas State Soil and Water Conservation Board*: Coordinating Implementation of the Upper Llano Watershed Protection Plan. Co-PIs: Tom Arsuffi, Kevin Wagner. December 2015-November2017. Total: \$347,493. Amount to Schramm: \$51,235.
+
 # Media Coverage of Projects
 
 **Water Quality Projects**
 
+"Team's work to improve water quality at region's watersheds paying off": The Lufkin Daily News. [Link here](http://lufkindailynews.com/news/community/article_2cc81fbf-0056-59e4-a6bd-66b92fdce3a0.html)
+
 "Experts gather to discuss Arenosa Creek's water quality": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/news/agriculture/experts-gather-to-discuss-arenosa-creek-s-water-quality/article_15aea768-a18c-11e8-80e4-f320cf54cbe6.html)
+
+"Texas Water Resources Institute protection plan for Lavaca River accepted by EPA": The Eagle. [Link here](https://www.theeagle.com/landandlivestockpost/agrilifetoday/texas-water-resources-institute-protection-plan-for-lavaca-river-accepted/article_0a3ad628-4947-5dbd-b08e-5dd269210de3.html)
 
 "Group finalizes watershed protection plan": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/counties/jackson/group-finalizes-watershed-protection-plan/article_3b443b45-800a-5f0c-b455-95bd629a1ef7.html)
 
 "Residents look to improve Lavaca River quality": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/news/local/residents-look-to-improve-lavaca-river-quality/article_66dfd2be-7e12-5916-9c20-9f751f78c497.html)
 
-**Software**
 
-"April 2018: "Top 40" New Packages: R-Studio blog.[Link here](https://rviews.rstudio.com/2018/05/24/april-2018-top-40-new-packages/)
+
