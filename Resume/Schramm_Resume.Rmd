@@ -103,7 +103,7 @@ bibliography_entries("schramm_pubs.bib") %>%
 # Construct bib file for R packages
 source("Rpackages.R")
 write_packages_bib(
-  pkglist = c("echor","tbrf","dartx"),
+  pkglist = c("echor","tbrf","dartx","wd4tx"),
   file="Rpackages.bib")
 ```
 
