@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.26)  26 NOV 2019 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.26)  2 DEC 2019 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,35 +812,35 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplj/b/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 160.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 169.
 [1
 
 {c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/up
 dmap/pdftex.map}] [2]
-Underfull \hbox (badness 1331) in paragraph at lines 272--275
+Underfull \hbox (badness 1331) in paragraph at lines 281--284
 \T1/pplj/m/n/10.95 (+20) Mit-i-ga-tion Data, Oak Ridge Na-tional Lab-o-ra-tory,
  avail-able at: [][]$http : / / nhaap . ornl . gov /
  []
 
-[3] 
+[3] [4] 
 AED: lastpage setting LastPage
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 392.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 392.
+[5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 456.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 456.
 (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 392.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 392.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 456.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 456.
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 02024A13ADDC5238A5A0A6AFE182700C;1226.
+(rerunfilecheck)             Checksum: 7DABE187CB474475311EA9AB3EF9168B;1853.
  ) 
 Here is how much of TeX's memory you used:
- 14347 strings out of 494108
- 210081 string characters out of 6171570
- 310645 words of memory out of 5000000
- 18074 multiletter control sequences out of 15000+600000
- 45714 words of font info for 178 fonts, out of 8000000 for 9000
+ 14378 strings out of 494108
+ 210458 string characters out of 6171570
+ 310843 words of memory out of 5000000
+ 18084 multiletter control sequences out of 15000+600000
+ 46276 words of font info for 186 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,11n,52p,1191b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,52p,1191b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/
 base/8r.enc} <c:/Users/michael.schramm/Documents/.TinyTeX/texmf-var/fonts/pk/lj
 four/jknappen/ec/ectt1095.600pk>{c:/Users/michael.schramm/AppData/Roaming/TinyT
@@ -853,10 +853,10 @@ exmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/michael.schramm/AppData
 el.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
 fb><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw
 /palatino/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 111282 bytes).
+Output written on CV.pdf (5 pages, 116153 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 18521 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 18561 words of extra memory for PDF output out of 20736 (max. 10000000)
 

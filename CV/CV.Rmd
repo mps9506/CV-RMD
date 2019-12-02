@@ -43,6 +43,12 @@ Research Assistant \hfill 2012-2013
 
 *University of North Carolina - Wilmington*, B.S. Biology, 2004
 
+# Research Areas
+
+Water quality - policy analysis, stakeholder engagement, statistical modeling, and watershed planning
+
+Hydroinformatics - statistical modeling and visualization for decision-making
+
 # Skills
 
 Data Analysis, Environmental Policy, GIS, Grant Writing, Policy Analysis, `Python`, `R`, Reproducible Research, Stakeholder Facilitation, Technical Writing, Water Quality Modeling and Assessment, Watershed Planning
@@ -107,6 +113,19 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 **Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
 
+## Conference Presentations
+
+Presenting author *italicized*, if other.
+
+**Schramm, M.** 2019. Automating Retrieval of Wastewater Discharge Monitoring Reports with R. National Water Quality Monitoring Conference. Denver, Colorado.
+
+**Schramm, M.** 2019. Automating Retrieval of Wastewater Discharge Monitoring Reports with R. Southern Region Water Conference. College Station, TX.
+
+*DeRolph, C.R.*, Bevelhimer, M.S., Schramm, M.P. 2015. Development of an Environmental Mitigation Database and Statistical Models for Predicting Likely FERC License Mitigation Requirements at Hydropower Projects. American Fisheries Society. Portland, Oregon.
+
+**Schramm, M.**, Bevelhimer, M.S., DeRolph, C.R. 2015. Analysis of Required Environmental Mitigation at Licensed Hydropower Projects Across the US. Southern Division American Fisheries Society. Savannah, Georgia.
+
+
 ## Grants
 
 *Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY20); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$135,790. Amount to Schramm: \$135,790.
@@ -133,7 +152,7 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 *Texas State Soil and Water Conservation Board*: Coordinating Implementation of the Upper Llano Watershed Protection Plan. Co-PIs: Tom Arsuffi, Kevin Wagner. December 2015-November2017. Total: \$347,493. Amount to Schramm: \$51,235.
 
-# Media Coverage of Projects
+# Media Coverage
 
 **Water Quality Projects**
 
@@ -147,5 +166,28 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 
 "Residents look to improve Lavaca River quality": Victoria Advocate. [Link here](https://www.victoriaadvocate.com/news/local/residents-look-to-improve-lavaca-river-quality/article_66dfd2be-7e12-5916-9c20-9f751f78c497.html)
 
+# Awards and Honors
 
+2013 - Center for Energy and Environmental Policy Leadership Award
 
+2011 - NCDOT Environmental Science Scholarship
+
+# Service
+
+**Review committees:**
+
+- TWRI Mills Scholarship Program (2017 - ongoing)
+
+- USGS Graduate Research Program (2017 - ongoing)
+
+- Texas Hill Country Headwaters Conservation Initiative Regional Conservation Partnership Program (2018 - ongoing)
+
+**Journal peer review:**
+
+*Water*, *Sustainbility*
+
+# Professional Affiliations
+
+American Water Resources Assocation (AWRA)
+
+Universities Council on Water Resources (UCOWR)
