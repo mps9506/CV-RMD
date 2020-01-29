@@ -69,6 +69,8 @@ Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Sp
 
 ## Technical Reports
 
+**Schramm, M.**, Jha, A. (2020). Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118sandywolfcreeks/118-sandywolf-tsd-2020jan.pdf
+
 **Schramm, M.**, Jha, A. 2019. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Hillebrandt Bayou. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118hillebrandt/118-hillebrandtbayou-tsd-2019.pdf
 
 Jain, S., Ruff, S., **Schramm, M.** 2018. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/108arenosa/108-arenosa-tsd-final.pdf
@@ -110,8 +112,6 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 ## Forthcoming
 
 **Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for Four Total Maximum Daily Loads for Indicator Bacteria in Neches River Tidal . Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
-
-**Schramm, M.**, Jha, A. (forthcoming). Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. 
 
 ## Conference Presentations
 
