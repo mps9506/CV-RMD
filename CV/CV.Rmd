@@ -4,7 +4,7 @@ author: "Michael Schramm"
 email: mpschramm@gmail.com
 output:
   pdf_document:
-    latex_engine: lualatex
+    latex_engine: xelatex
     template: svm-latex-cv.tex
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -93,9 +93,9 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 ## Software
 
-**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.3 (CRAN).* https://CRAN.R-project.org/package=echor
+**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.4 (CRAN).* https://CRAN.R-project.org/package=echor
 
-**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.3 (CRAN)* https://CRAN.R-project.org/package=tbrf
+**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.4 (CRAN)* https://CRAN.R-project.org/package=tbrf
 
 **Schramm, M.P.** 2019. `dartx`: Drainage Area Ratio with Correction Factors. *R package version 0.1 (github)* https://github.com/mps9506/dartx
 
@@ -126,31 +126,31 @@ Presenting author *italicized*, if other.
 **Schramm, M.**, Bevelhimer, M.S., DeRolph, C.R. 2015. Analysis of Required Environmental Mitigation at Licensed Hydropower Projects Across the US. Southern Division American Fisheries Society. Savannah, Georgia.
 
 
-## Grants
+## Grants and Projects
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY20); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$135,790. Amount to Schramm: \$135,790.
+Basins Approach to Address Bacterial Impairments in the Lower Neches Basin (FY20). Texas Commision on Environmental Quality. PI: Lucas Gregory. Project Manager: Michael Schramm. September 2018-August 2019. Total: \$135,790.
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY20); PI: Allen Berthold. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$51,888. Amount to Schramm: \$51,888.
+Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY20). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2018-August 2019. Total: \$51,888.
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in the Lower Neches Basin (FY19); PI: Lucas Gregory. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$139,343. Amount to Schramm: \$139,343.
+Basins Approach to Address Bacterial Impairments in the Lower Neches Basin (FY19). Texas Commision on Environmental Quality. PI: Lucas Gregory. Project Manager: Michael Schramm. September 2018-August 2019. Total: \$139,343.
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY19); PI: Allen Berthold. Project Lead: Michael Schramm. September 2018-August 2019. Total: \$97,399. Amount to Schramm: \$97,399.
+Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY19). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2018-August 2019. Total: \$97,399.
 
-*Texas Commision on Environmental Quality*: Lavaca River Watershed Protection Plan (WPP) - Coordination, implementation and routine water quality; PI: Allen Berthold. Project Lead: Michael Schramm. September 2018 - August 2021. Total: \$150,000. Amount to Schramm: \$124,910.
+Lavaca River Watershed Protection Plan (WPP) - Coordination, Implementation and Routine Water Quality. Texas Commision on Environmental Quality. PI: Allen Berthold. September 2018 - August 2021. Total: \$150,000.
 
-*Texas Commision on Environmental Quality*: Tres Palacios on-site sewage facilities remediation; PI: Allen Berthold. Project Lead: Michael Schramm. May 2018 - December 2020. Total: \$327,361. Amount to Schramm: \$327,361.
+Tres Palacios On-Site Sewage Facilities Remediation. Texas Commision on Environmental Quality. PI: Allen Berthold. May 2018 - December 2020. Total: \$327,361.
 
-*Texas Commision on Environmental Quality*: Tres Palacios WPP implementation (TCEQ FY17); PI: Allen Berthold. Project Lead: Michael Schramm. May 2018 - December 2020. Total: \$355,800. Amount to Schramm: \$235,866.
+Tres Palacios WPP implementation (TCEQ FY17). Texas Commision on Environmental Quality. PI: Allen Berthold. May 2018 - December 2020. Total: \$355,800.
 
-*Texas General Land Office*: Mission and Aransas Rivers TMDL I-Plan implementation; PI: Allen Berthold. Project Lead: Michael Schramm. October 2017-March 2019. Total: \$83,979. Amount to Schramm: \$83,979.
+Mission and Aransas Rivers TMDL I-Plan implementation. Texas General Land Office. PI: Allen Berthold. October 2017-March 2019. Total: \$83,979.
 
-*Texas General Land Office*: Coordinating implementation of the Tres Palacios Watershed Protection Plan; PI: Allen Berthold. Project Lead: Michael Schramm. October 2017-March 2019. Total: \$95,816. Amount to Schramm: \$95,816.
+Coordinating Implementation of the Tres Palacios Watershed Protection Plan. Texas General Land Office. PI: Allen Berthold. October 2017-March 2019. Total: \$95,816.
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY18); PI: Allen Berthold. Project Lead: Michael Schramm. September 2017-August 2018. Total: \$220,166. Amount to Schramm: \$179,996.
+Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY18). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2017-August 2018. Total: \$220,166. Amount to Schramm: \$179,996.
 
-*Texas Commision on Environmental Quality*: Basins approach to address bacterial impairments in basins 15, 16, 17 (FY17); PI: Allen Berthold. Project Lead: Michael Schramm. September 2016-August 2017. Total: \$292,699. Amount to Schramm: \$229,649.
+Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY17). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2016-August 2017. Total: \$292,699.
 
-*Texas State Soil and Water Conservation Board*: Coordinating Implementation of the Upper Llano Watershed Protection Plan. Co-PIs: Tom Arsuffi, Kevin Wagner. December 2015-November2017. Total: \$347,493. Amount to Schramm: \$51,235.
+Coordinating Implementation of the Upper Llano Watershed Protection Plan. Texas State Soil and Water Conservation Board. Co-PIs: Tom Arsuffi, Kevin Wagner. December 2015-November2017. Total: \$347,493.
 
 # Media Coverage
 
