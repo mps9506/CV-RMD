@@ -91,9 +91,9 @@ tribble(
 #   RefManageR::as.BibEntry() %>%
 #   RefManageR::WriteBib("schramm.bib")
 
-bibliography_entries("schramm_pubs.bib") %>%
-  filter(bibtype == "Article") %>%
-  arrange(date)
+#bibliography_entries("schramm_pubs.bib") %>%
+#  filter(bibtype == "Article") %>%
+#  arrange(date)
 ```
 
 
@@ -110,8 +110,10 @@ write_packages_bib(
 ```{r Rpackages}
 
 # Sort R packages by title, then year.
-bibliography_entries("Rpackages.bib",
+bibliography_entries(here::here("Resume/Rpackages.bib"),
   startlabel = "packagestart", endlabel = "packageend"
 ) %>%
   arrange(title, year)
 ```
+
+
