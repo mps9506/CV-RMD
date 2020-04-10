@@ -95,7 +95,7 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 **Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.4 (CRAN).* https://CRAN.R-project.org/package=echor
 
-**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.4 (CRAN)* https://CRAN.R-project.org/package=tbrf
+**Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.5 (CRAN)* https://CRAN.R-project.org/package=tbrf
 
 **Schramm, M.P.** 2019. `dartx`: Drainage Area Ratio with Correction Factors. *R package version 0.1 (github)* https://github.com/mps9506/dartx
 
@@ -146,7 +146,7 @@ Mission and Aransas Rivers TMDL I-Plan implementation. Texas General Land Office
 
 Coordinating Implementation of the Tres Palacios Watershed Protection Plan. Texas General Land Office. PI: Allen Berthold. October 2017-March 2019. Total: \$95,816.
 
-Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY18). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2017-August 2018. Total: \$220,166. Amount to Schramm: \$179,996.
+Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY18). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2017-August 2018. Total: \$220,166.
 
 Basins Approach to Address Bacterial Impairments in Basins 15, 16, 17 (FY17). Texas Commision on Environmental Quality. PI: Allen Berthold. Project Manager: Michael Schramm. September 2016-August 2017. Total: \$292,699.
 
