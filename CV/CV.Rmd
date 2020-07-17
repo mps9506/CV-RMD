@@ -69,9 +69,11 @@ Cutting, R.H., Cahoon, L.B., Flood, J.F., Horton, L., **Schramm, M.P.** 2010. Sp
 
 ## Technical Reports
 
-**Schramm, M.**, Jha, A. 2020. Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118sandywolfcreeks/118-sandywolf-tsd-2020jan.pdf
+**Schramm, M.**, Jha, A. 2020. Technical Support Document for Two Total Maximum Daily Loads for Indicator Bacteria in Sandy Creek and Wolf Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118sandywolfcreeks/118-sandywolf-tsd-2020june.pdf
 
-**Schramm, M.**, Jha, A. 2019. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Hillebrandt Bayou. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118hillebrandt/118-hillebrandtbayou-tsd-2019.pdf
+**Schramm, M.**, Jha, A. 2020. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Hillebrandt Bayou. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/118hillebrandt/118-hillebrandt-tsd-2020.pdf
+
+**Schramm, M.**, deVilleneuve, S., Jain, S., Berthold, A., Mohandass. 2019. Carancahua Bay Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-514. College Station, TX. URL: http://twri.tamu.edu/technical-reports/2019-technical-reports/tr-514/ 
 
 Jain, S., Ruff, S., **Schramm, M.** 2018. Technical Support Document for One Total Maximum Daily Load for Indicator Bacteria in Arenosa Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/108arenosa/108-arenosa-tsd-final.pdf
 
@@ -80,8 +82,6 @@ Jain, S., Ruff, S., **Schramm, M.** 2018. Technical Support Document for One Tot
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2018. Lavaca River Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-507. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2018/tr-507/
 
 **Schramm, M.P.**, Entwistle, C., Berthold, T. 2017. Tres Palacios Watershed Protection Plan. Technical report, Texas Water Resources Institute TR-500. College Station, TX. URL: http://twri.tamu.edu/publications/reports/2017/tr-500/
-
-**Schramm, M.P.**, Entwistle, C., Berthold, T. 2017. Implementation Plan for One Total Maximum Daily Load for Indicator Bacteria in Tres Palacios Creek Tidal. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/108trespalacios/108-TresPalaciosBacteria_TMDLIPlan_Comment_July05-2017.pdf
 
 **Schramm, M.P.** 2017. Technical Support Document for Total Maximum Daily Loads for Indicator Bacteria in Aransas River Above Tidal and Poesta Creek. Prepared by the Texas Water Resources Institute for the Total Maximum Daily Load Program, Texas Commission on Environmental Quality. Austin, TX. URL: https://www.tceq.texas.gov/assets/public/waterquality/tmdl/76copano/76-aransas-poesta-tsd.pdf
 
@@ -93,7 +93,7 @@ Caldwell, J., Cruz-Ortiz, C., Dsouza, C., Johnson, T., Schorse, M., **Schramm, M
 
 ## Software
 
-**Schramm, M.P.** 2018. `echor`: Access EPA ECHO Data. *R package version 0.1.4 (CRAN).* https://CRAN.R-project.org/package=echor
+**Schramm, M.P.** 2020. `echor`: Access EPA ECHO Data. *R package version 0.1.5 (CRAN).* URL: https://CRAN.R-project.org/package=echor, doi:10.5281/zenodo.3635017
 
 **Schramm, M.P.** 2018. `tbrf`: Time-Based Rolling Functions. *R package version 0.1.5 (CRAN)* https://CRAN.R-project.org/package=tbrf
 
@@ -116,6 +116,8 @@ Bevelhimer, M.S., **Schramm M.P.**, DeRolph, C.R. 2015. US Maps of Non-Federal H
 ## Conference Presentations
 
 Presenting author *italicized*, if other.
+
+Jain, S., **Schramm, M.**, Kathuria, D. 2020. Can Statistical Models Provide Improved Performance over DAR Methods for Estimating Flow-duration Curves and Daily Streamflows in Ungauged Catchments? AWRA 2020 Spring GIS Speciality Conference. Austin, TX.
 
 **Schramm, M.** 2019. Automating Retrieval of Wastewater Discharge Monitoring Reports with R. National Water Quality Monitoring Conference. Denver, Colorado.
 
