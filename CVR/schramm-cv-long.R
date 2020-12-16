@@ -19,7 +19,7 @@ conference <- ReadZotero(group = "2533336",
 
 software <- ReadZotero(group = "2533336",
                        .params=list(key = key,
-                                    itemType = "computerProgram"))
+                                    tag = "computerProgram"))
 
 datasets <- ReadZotero(group = "2533336",
                        .params=list(key = key,
@@ -33,5 +33,6 @@ build_cv(full_name = "Michael Schramm",
          software = software,
          datasets = datasets,
          output_file_name = "schramm-cv-long.pdf",
-         output_dir = here::here("/CVR"),
+         output_dir = here::here("CVR"),
+         rmd_template = "svm_cv",
          spell_check = FALSE)
