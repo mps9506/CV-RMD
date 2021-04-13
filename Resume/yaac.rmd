@@ -1,0 +1,100 @@
+---
+title: "`r yml$title`"
+firstname: "`r yml$firstname`"
+lastname: "`r yml$lastname`"
+tagline: "`r yml$tagline`"
+github: "`r yml$github`"
+phone: "`r yml$phone`"
+address: "`r yml$address`"
+email: "`r yml$email`"
+bibliography_peer_review: peer_review.bib
+bibliography_tech_report: tech_report.bib
+bibliography_software: software.bib
+nocite: '@*'
+csl: "`r csl_loc`"
+---
+```{r, include=FALSE}
+options(tinytex.clean = TRUE)
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+#library(magrittr) # For the pipe
+```
+
+
+```{r}
+cv_data %<>% CVR::print_text_block('research')
+```
+
+
+
+
+```{r}
+
+cat("\\sectionTitle{Skills}{\\faTasks}
+\\begin{keywords}
+")
+cv_data %<>% CVR::print_skills_block()
+cat("\\end{keywords}")
+```
+
+
+
+```{r}
+
+knitr::raw_latex("\\sectionTitle{Experience}{\\faSuitcase}\\begin{experiences}
+")
+```
+
+```{r}
+knitr::raw_latex(cv_data %>% CVR::print_section('research_positions',
+                                glue_template = " 
+\\experience
+{{{end}}}{{{title}}}{{{institution}}}{{{loc}}}{{{start}}}
+{{\\begin{{itemize}}
+{description_bullets} 
+\\end{{itemize}}}}
+{{}}
+\\emptySeparator
+",
+latexify = TRUE))
+```
+
+```{r}
+knitr::raw_latex("\\end{experiences}")
+```
+
+
+
+```{r}
+
+cat("\\sectionTitle{Education}{\\faGraduationCap}
+\\begin{scholarship}
+")
+cv_data %>% CVR::print_section('education',
+                                glue_template = "
+\\scholarshipentry
+{{{end}}}{{{title}, {institution}}}
+",
+latexify = TRUE)
+cat("\\end{scholarship}")
+```
+
+```{r}
+cat("\\sectionTitle{Selected Peer-Review Publications}{\\faFile*}")
+```
+::: {#refs_peer_review}
+:::
+
+```{r}
+cat("\\sectionTitle{Selected Technical Reports}{\\faFile*}")
+```
+::: {#refs_tech_report}
+:::
+
+```{r}
+cat("\\sectionTitle{Software}{\\faLaptop}")
+```
+::: {#refs_software}
+:::

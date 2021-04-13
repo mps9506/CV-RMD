@@ -1,0 +1,43 @@
+% !TEX TS-program = luatex
+% Awesome Source CV LaTeX Template
+%
+% This template has been downloaded and modified from:
+% https://github.com/darwiin/awesome-neue-latex-cv
+%
+% Author:
+% Christophe Roger (Darwiin)
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+\documentclass[localFont,alternative,compact]{yaac-another-awesome-cv}
+
+
+
+\name{$firstname$}{$lastname$}
+\tagline{$tagline$}
+
+\socialinfo{
+\github{$github$}\\
+\smartphone{$phone$}
+\email{$email$}\\
+\address{$address$}
+}
+
+
+
+
+\begin{document}
+
+  \makecvheader
+
+	\makecvfooter
+		{\textsc{\today}} % \selectlanguage{english}\today
+		{\textsc{$firstname$ $lastname$ - Resume}}
+		{\thepage}
+
+
+$body$
+
+\end{document}
+
