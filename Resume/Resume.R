@@ -1,30 +1,12 @@
-library(CVR)
-library(RefManageR)
+library(mpsCVR)
+#library(RefManageR)
 
 
-BibOptions(sorting = "none")
-
-##zotero key is privately stored in local env
-key <- Sys.getenv("zotero_key")
-
-peer_review <- RefManageR::ReadZotero(group = "2533336",
-                                      .params = list(key = key,
-                                                   itemType = "journalArticle"))
-
-
-peer_review <- sort(peer_review, sorting = "ydnt")
-peer_review <- peer_review[1:3]
-
-tech_report <- ReadZotero(group = "2533336",
-                          .params=list(key = key,
-                                       itemType = "report"))
-tech_report <- sort(tech_report, sorting = "ydnt")
-tech_report <- tech_report[1:3]
-
-
-software <- ReadZotero(group = "2533336",
-                       .params=list(key = key,
-                                    itemType = "computerProgram"))
+peer_review <- fs::path_wd("Resume/peer_review.bib")
+tech_report <- fs::path_wd("Resume/tech_report.bib")
+conference <- fs::path_wd("Resume/conference.bib")
+software <- fs::path_wd("Resume/software.bib")
+datasets <- fs::path_wd("Resume/datasets.bib")
 
 
 build_cv(full_name = "Michael Schramm",
