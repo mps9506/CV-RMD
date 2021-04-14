@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.12)  13 APR 2021 11:57
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.14)  14 APR 2021 09:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -51,85 +51,11 @@ Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
 \CurrentLineWidth=\dimen139
 \TabPrevPos=\dimen140
 )
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.st
-y
-Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
-\symupright=\mathgroup4
-)
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.s
-ty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ebgaramond/ebgaram
+ond.sty
+Package: ebgaramond 2020/04/12 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
 
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.
-sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks15
-\symAMSa=\mathgroup5
-\symAMSb=\mathgroup6
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
-y
-Package: amsmath 2020/09/23 v2.17i AMS math features
-\@mathmargin=\skip49
-For additional information on amsmath, use the `?' option.
-
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.st
-y
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen141
-))
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
-)
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count183
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count184
-\leftroot@=\count185
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count186
-\DOTSCASE@=\count187
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen143
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count188
-\c@MaxMatrixCols=\count189
-\dotsspace@=\muskip16
-\c@parentequation=\count190
-\dspbrk@lvl=\count191
-\tag@help=\toks17
-\row@=\count192
-\column@=\count193
-\maxfields@=\count194
-\andhelp@=\toks18
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
-\@envbody=\toks19
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
-)
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.st
 y
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
@@ -140,15 +66,24 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 ty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/xelatex/mathspec/mathspe
-c.sty
-Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
-r XeLaTeX)
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.st
+y
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
-sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count195
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.
+tex
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils
+.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.t
+ex))
+\XKV@depth=\count183
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.s
+ty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.
 sty
@@ -161,14 +96,14 @@ Package: expl3 2021-02-18 L3 programming layer (loader)
 d-xetex.def
 File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count196
-\l__color_backend_stack_int=\count197
-\g__color_backend_stack_int=\count198
-\g__graphics_track_int=\count199
-\l__pdf_internal_box=\box49
-\g__pdf_backend_object_int=\count266
-\g__pdf_backend_annotation_int=\count267
-\g__pdf_backend_link_int=\count268
+\c__kernel_sys_dvipdfmx_version_int=\count184
+\l__color_backend_stack_int=\count185
+\g__color_backend_stack_int=\count186
+\g__graphics_track_int=\count187
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count188
+\g__pdf_backend_annotation_int=\count189
+\g__pdf_backend_link_int=\count190
 ))
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
 xparse-2020-10-01.sty
@@ -180,59 +115,257 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count269
-\l__fontspec_language_int=\count270
-\l__fontspec_strnum_int=\count271
-\l__fontspec_tmp_int=\count272
-\l__fontspec_tmpa_int=\count273
-\l__fontspec_tmpb_int=\count274
-\l__fontspec_tmpc_int=\count275
-\l__fontspec_em_int=\count276
-\l__fontspec_emdef_int=\count277
-\l__fontspec_strong_int=\count278
-\l__fontspec_strongdef_int=\count279
-\l__fontspec_tmpa_dim=\dimen150
-\l__fontspec_tmpb_dim=\dimen151
-\l__fontspec_tmpc_dim=\dimen152
+\l__fontspec_script_int=\count191
+\l__fontspec_language_int=\count192
+\l__fontspec_strnum_int=\count193
+\l__fontspec_tmp_int=\count194
+\l__fontspec_tmpa_int=\count195
+\l__fontspec_tmpb_int=\count196
+\l__fontspec_tmpc_int=\count197
+\l__fontspec_em_int=\count198
+\l__fontspec_emdef_int=\count199
+\l__fontspec_strong_int=\count266
+\l__fontspec_strongdef_int=\count267
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.
 cfg)))
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.st
-y
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+Requested font "[EBGaramond-Regular.otf]/OT" at 10.94997pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+Requested font "[EBGaramond-Regular.otf]/OT" at 10.95003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;" at 10.95
+003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Italic.otf
+Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=dflt;" at 1
+0.95003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-BoldItalic.otf
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;" at 10.9500
+3pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Bold.otf
 
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.
-tex
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils
-.tex
-\XKV@toks=\toks21
-\XKV@tempa@toks=\toks22
+Package fontspec Info: Font family 'EBGaramond(0)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={},Extension =
+(fontspec)             .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic,FontFace={m}{sw}{Font=*-Italic,Style=Swash}
+,FontFace={b}{sw}{Font=*-BoldItalic,Style=Swash}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (m/sw) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+swsh;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+swsh;+smcp;mapping=tex-text;"
+(fontspec)             - (b/sw) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;+swsh;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;+swsh;+smcp;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
 
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.t
-ex))
-\XKV@depth=\count280
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-\c@eu@=\count281
-\c@eu@i=\count282
-\c@mkern=\count283
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 124.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+
+Package fontspec Info: Font family 'EBGaramond(1)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={},Extension = .otf,Numbers =
+(fontspec)             {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'EBGaramond(2)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={},Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[EBGaramond-Initials.otf]/OT" at 10.94997pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Initials.otf
+Missing character: There is no   (U+0020) in font [EBGaramond-Initials.otf]/OT!
+Requested font "[EBGaramond-Initials.otf]/OT" at 10.95003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Initials.otf
+Missing character: There is no   (U+0020) in font [EBGaramond-Initials.otf]/OT!
+Requested font "[EBGaramond-Initials.otf]/OT:language=dflt;" at 10.95003pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Initials.otf
+Missing character: There is no   (U+0020) in font [EBGaramond-Initials.otf]/OT:
+language=dflt;!
+
+Package fontspec Info: Font family 'EBGaramond-Initials(0)' created for font
+(fontspec)             'EBGaramond-Initials' with options [Ligatures =
+(fontspec)             TeX,Scale = 1,SmallCapsFeatures={},Extension =
+(fontspec)             .otf,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Initials.otf]/OT:language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Info: Redefining \oldstylenums on input line 152.
+LaTeX Info: Redefining \liningnums on input line 153.
+LaTeX Info: Redefining \textsw on input line 187.
+
+Package fontspec Info: Font family 'EBGaramond(3)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={},Extension = .otf,Numbers =
+(fontspec)             {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]/OT:script=latn;languag
+e=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]/OT:script=latn;language=d
+flt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]/OT:script=latn;language
+=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
+uage=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
 )
-\cslhangindent=\skip52
-\csllabelwidth=\skip53
+\cslhangindent=\skip49
+\csllabelwidth=\skip50
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count284
-\calc@Bcount=\count285
-\calc@Adimen=\dimen153
-\calc@Bdimen=\dimen154
-\calc@Askip=\skip54
-\calc@Bskip=\skip55
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count286
-\calc@Cskip=\skip56
+\calc@Ccount=\count270
+\calc@Cskip=\skip53
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.
 sty
@@ -241,58 +374,18 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count287
-\Gm@cntv=\count288
-\c@Gm@tempcnt=\count289
-\Gm@bindingoffset=\dimen155
-\Gm@wd@mp=\dimen156
-\Gm@odd@mp=\dimen157
-\Gm@even@mp=\dimen158
-\Gm@layoutwidth=\dimen159
-\Gm@layoutheight=\dimen160
-\Gm@layouthoffset=\dimen161
-\Gm@layoutvoffset=\dimen162
-\Gm@dimlist=\toks23
-)
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.st
-y
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip57
-\LTright=\skip58
-\LTpre=\skip59
-\LTpost=\skip60
-\LTchunksize=\count290
-\LTcapwidth=\dimen163
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count291
-\LT@rows=\count292
-\c@LT@tables=\count293
-\c@LT@chunks=\count294
-\LT@p@ftn=\toks24
-)
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.
-sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen164
-\lightrulewidth=\dimen165
-\cmidrulewidth=\dimen166
-\belowrulesep=\dimen167
-\belowbottomsep=\dimen168
-\aboverulesep=\dimen169
-\abovetopsep=\dimen170
-\cmidrulesep=\dimen171
-\cmidrulekern=\dimen172
-\defaultaddspace=\dimen173
-\@cmidla=\count295
-\@cmidlb=\count296
-\@aboverulesep=\dimen174
-\@belowrulesep=\dimen175
-\@thisruleclass=\count297
-\@lastruleclass=\count298
-\@thisrulewidth=\dimen176
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks17
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.st
 y
@@ -322,19 +415,24 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetk
 eys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)))
+))
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
+sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+))
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box54
-\beforetitleunit=\skip61
-\aftertitleunit=\skip62
-\ttl@plus=\dimen177
-\ttl@minus=\dimen178
-\ttl@toksa=\toks25
-\titlewidth=\dimen179
-\titlewidthlast=\dimen180
-\titlewidthfirst=\dimen181
+\ttl@box=\box48
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
+\ttl@toksa=\toks18
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontaw
 esome.sty
@@ -342,35 +440,41 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontaw
 esomesymbols-generic.tex)
-
-Package fontspec Info: FontAwesome scale = 1.005834146341463.
-
+Requested font "FontAwesome" at 10.94997pt
+ -> C:/Windows/fonts/FontAwesome.otf
+Requested font "FontAwesome/OT" at 10.95003pt
+ -> C:/Windows/fonts/FontAwesome.otf
+Requested font "FontAwesome/OT:language=dflt;" at 10.95001pt
+ -> C:/Windows/fonts/FontAwesome.otf
+Requested font "FontAwesome/BI/OT:language=dflt;" at 10.95001pt
+ -> C:/Windows/fonts/FontAwesome.otf
 
 Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
 (fontspec)             doesn't exist).
 
+Requested font "FontAwesome/B/OT:language=dflt;" at 10.95001pt
+ -> C:/Windows/fonts/FontAwesome.otf
 
 Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
 (fontspec)             doesn't exist).
 
+Requested font "FontAwesome/I/OT:language=dflt;" at 10.95001pt
+ -> C:/Windows/fonts/FontAwesome.otf
 
 Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
 (fontspec)             doesn't exist).
 
-
-Package fontspec Info: FontAwesome scale = 1.005834146341463.
-
+Requested font "FontAwesome/OT:language=dflt;" at 10.95003pt
+ -> C:/Windows/fonts/FontAwesome.otf
 
 Package fontspec Info: Font family 'FontAwesome(0)' created for font
-(fontspec)             'FontAwesome' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase].
+(fontspec)             'FontAwesome' with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.005834146341463]"FontAwesome/OT:language=dflt;ma
-pping=tex-text;"
+(fontspec)             <->"FontAwesome/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
@@ -380,15 +484,15 @@ esomesymbols-xeluatex.tex))
 sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.
 sty
@@ -431,9 +535,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen182
-\Hy@linkcounter=\count299
-\Hy@pagecounter=\count300
+\@linkdim=\dimen159
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
@@ -452,7 +556,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count301
+\Hy@SavedSpaceFactor=\count277
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
@@ -464,13 +568,16 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count302
+\c@Hy@tempcnt=\count278
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen183
+\XeTeXLinkMargin=\dimen160
+Requested font "pzdr" at 0.00002pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/adobe/zapfding/
+pzdr.tfm
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
 y
@@ -481,9 +588,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count303
-\Field@Width=\dimen184
-\Fld@charsize=\dimen185
+\Fld@menulength=\count279
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
 Package hyperref Info: Hyper figures OFF on input line 6075.
 Package hyperref Info: Link nesting OFF on input line 6080.
 Package hyperref Info: Hyper index ON on input line 6083.
@@ -500,9 +607,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count304
-\c@Item=\count305
-\c@Hfootnote=\count306
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -515,11 +622,11 @@ enc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box55
-\c@Hy@AnnotLevel=\count307
-\HyField@AnnotCount=\count308
-\Fld@listcount=\count309
-\c@bookmark@seq@number=\count310
+\pdfm@box=\box49
+\c@Hy@AnnotLevel=\count283
+\HyField@AnnotCount=\count284
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -538,14 +645,14 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip72
+\Hy@SectionHShift=\skip65
 )
-Package hyperref Info: Option `unicode' set `true' on input line 125.
-Package hyperref Info: Option `colorlinks' set `true' on input line 125.
-Package hyperref Info: Option `breaklinks' set `true' on input line 125.
+Package hyperref Info: Option `unicode' set `true' on input line 127.
+Package hyperref Info: Option `colorlinks' set `true' on input line 127.
+Package hyperref Info: Option `breaklinks' set `true' on input line 127.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 125.
+(hyperref)                setting the option has no effect on input line 127.
 
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/datetime/datetime.
@@ -571,70 +678,140 @@ er.sty
 Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count311
+\fc@digit@counter=\count287
 ))
-\c@padzeroesN=\count312
-\fc@tmpcatcode=\count313
-\@DT@modctr=\count314
-\@ordinalctr=\count315
-\@orgargctr=\count316
-\@strctr=\count317
-\@tmpstrctr=\count318
-\@DT@loopN=\count319
-\@DT@X=\count320
+(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen163
+)
+\c@padzeroesN=\count288
+\fc@tmpcatcode=\count289
+\@DT@modctr=\count290
+\@ordinalctr=\count291
+\@orgargctr=\count292
+\@strctr=\count293
+\@tmpstrctr=\count294
+\@DT@loopN=\count295
+\@DT@X=\count296
 )
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/datetime/datetime-
 defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count321
-\@month=\count322
-\@year=\count323
-\c@HOUR=\count324
-\c@HOURXII=\count325
-\c@MINUTE=\count326
-\c@TOHOUR=\count327
-\c@TOMINUTE=\count328
-\c@SECOND=\count329
-\currenthour=\count330
-\currentminute=\count331
-\currentsecond=\count332
+\@day=\count297
+\@month=\count298
+\@year=\count299
+\c@HOUR=\count300
+\c@HOURXII=\count301
+\c@MINUTE=\count302
+\c@TOHOUR=\count303
+\c@TOMINUTE=\count304
+\c@SECOND=\count305
+\currenthour=\count306
+\currentminute=\count307
+\currentsecond=\count308
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count333
-\dayofyear=\count334
-\dayofweek=\count335
+\@dtctr=\count309
+\dayofyear=\count310
+\dayofweek=\count311
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks26
-\dt@b=\toks27
+\dt@a=\toks20
+\dt@b=\toks21
 ) (./schramm-cv-long.aux)
 \openout1 = `schramm-cv-long.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 134.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-34.
+36.
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 134.
-LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 136.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 136.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 136.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 136.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 136.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 136.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 136.
+LaTeX Font Info:    Redeclaring math accent \check on input line 136.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 136.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 136.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 136.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 136.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 136.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/EBGaramond(0)/m/n on input line 136.
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 136.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/m/n on input line 136
+.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/m/n on input 
+line 136.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(0)/m/it on input line 13
+6.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/b/n on input line 136
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 136.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 136.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/b/n on input 
+line 136.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/EBGaramond(0)/b/it on input line 1
+36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 136.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 136.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -671,8 +848,8 @@ LaTeX Font Info:    ... okay on input line 134.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 134.
-Package hyperref Info: Link coloring ON on input line 134.
+(lastpage)             ! on input line 136.
+Package hyperref Info: Link coloring ON on input line 136.
 
 (c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
 ty
@@ -686,11 +863,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count336
+\c@section@level=\count312
 )
-LaTeX Info: Redefining \ref on input line 134.
-LaTeX Info: Redefining \pageref on input line 134.
-LaTeX Info: Redefining \nameref on input line 134.
+LaTeX Info: Redefining \ref on input line 136.
+LaTeX Info: Redefining \pageref on input line 136.
+LaTeX Info: Redefining \nameref on input line 136.
 (./schramm-cv-long.out) (./schramm-cv-long.out)
 \@outlinefile=\write3
 \openout3 = `schramm-cv-long.out'.
@@ -702,207 +879,340 @@ Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/n' will be
-(Font)              scaled to size 11.01381pt on input line 147.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 139.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 20.74pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 139.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
+mapping=tex-text;" at 20.74pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Bold.otf
+Requested font "FontAwesome/OT:language=dflt;mapping=tex-text;" at 10.95pt
+ -> C:/Windows/fonts/FontAwesome.otf
+Requested font "[lmmono10-regular]:" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/lm/
+lmmono10-regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 149.
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
+m;mapping=tex-text;" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Italic.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 157.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 14.4pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 157.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
+mapping=tex-text;" at 14.4pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Bold.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 157.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 12.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 157.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
+mapping=tex-text;" at 12.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Bold.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--170
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-185.
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
-)
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-185.
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-185.
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-185.
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-185.
-(c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 185.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 185.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 185.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 185.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 185.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 185.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 187.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 8.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 187.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;mapping=tex-text;" at 6.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
+Requested font "cmmi10" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi1
+0.tfm
+Requested font "cmmi8" at 8.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi8
+.tfm
+Requested font "cmmi6" at 6.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi6
+.tfm
+Requested font "cmsy10" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy1
+0.tfm
+Requested font "cmsy8" at 8.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy8
+.tfm
+Requested font "cmsy6" at 6.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy6
+.tfm
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 187.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 187.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 187.
+Requested font "cmr10" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr10
+.tfm
+Requested font "cmr8" at 8.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr8.
+tfm
+Requested font "cmr6" at 6.0pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr6.
+tfm
 [1
 
 ]
-Underfull \hbox (badness 1248) in paragraph at lines 207--208
-\TU/lmr/m/n/10.95 on Environmental Quality. [][]$[][][][][] [] [] [] [][][] [] 
-[][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][][][][] [] [][][][][][
-][][][][][][] [] [][][][] []
- []
-
-[2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
-
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[][][] [] [][][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][][][][][] [] [
+][][][][][][][][][][][] [] [][][][] [] [][][][][][][][][][][][][][] [] [][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
-
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+[][]$[][][][][] [] [] [] [][][] [] [][][][] [] [][][][][] [] [][][] [] [][][][]
+[][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][] [] [][][][][][][][
+][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
-
+Underfull \hbox (badness 1394) in paragraph at lines 217--219
+\TU/EBGaramond(0)/m/it/10.95 Protection Plan \TU/EBGaramond(0)/m/n/10.95 (Techn
+ical Report TR-514). Texas Water Resources Institute. [][]$[][][][][] [] [] [] 
+[][][][] [] [][][][] [] [][][] []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 1072) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2020 - 2021 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 1048) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2019 - 2020 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 1048) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2019 - 2020 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 1275) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2018 - 2019 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 1275) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2018 - 2019 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--321
+Underfull \hbox (badness 2027) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2017 - 2019 \TU/EBGaramond(0)/m/it/10.95 Texas Gene
+ral Land Office Coastal Management Program\TU/EBGaramond(0)/m/n/10.95 : Coordin
+ating Implementation of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
 
  []
 
-[4] [5]
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 356.
+Underfull \hbox (badness 1281) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2017 - 2018 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
+
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2016 - 2017 \TU/EBGaramond(0)/m/it/10.95 Texas Comm
+ission On Environmental Quality TMDL Program\TU/EBGaramond(0)/m/n/10.95 : Basin
+s Approach to Address
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
+
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 306--323
+\TU/EBGaramond(0)/m/n/10.95 2015 - 2017 \TU/EBGaramond(0)/m/it/10.95 Texas Stat
+e Soil and Water Conservation Board\TU/EBGaramond(0)/m/n/10.95 : Coordinating I
+mplementation of the Upper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--323
+
+ []
+
+[3] [4]
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 335.
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
+um;+smcp;mapping=tex-text;" at 10.95pt
+ -> c:/Users/mpsch/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebg
+aramond/EBGaramond-Regular.otf
 
 AED: lastpage setting LastPage
-[6] (./schramm-cv-long.aux)
+[5] (./schramm-cv-long.aux)
 Package rerunfilecheck Info: File `schramm-cv-long.out' has not changed.
-(rerunfilecheck)             Checksum: 856D61D5E4BAC620CAFCCC58A796C2F4;1920.
+(rerunfilecheck)             Checksum: 60B787AA723C4A247D700EADC7756448;1723.
  ) 
 Here is how much of TeX's memory you used:
- 15684 strings out of 478918
- 279382 string characters out of 5864811
- 677506 words of memory out of 5000000
- 35295 multiletter control sequences out of 15000+600000
- 411180 words of font info for 66 fonts, out of 8000000 for 9000
+ 14308 strings out of 478918
+ 267901 string characters out of 5865075
+ 660517 words of memory out of 5000000
+ 33954 multiletter control sequences out of 15000+600000
+ 406753 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 95i,12n,136p,1227b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,11n,124p,1227b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schramm-cv-long.pdf (6 pages).
+Output written on schramm-cv-long.pdf (5 pages).
