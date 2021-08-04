@@ -35,5 +35,9 @@ build_cv(full_name = "Michael Schramm",
          output_file_name = "schramm-cv-long.pdf",
          output_dir = here::here("CVR"),
          rmd_template = "svm_cv",
-         spell_check = FALSE)
+         spell_check = FALSE,
+         yml = list(settitle = "CV",
+                    setphone = "979-458-9191",
+                    setaddress = "578 John Kimbrough Blvd · 2260 TAMU · College Station, TX 77843",
+                    setemail = "michael.schramm@ag.tamu.edu"))
 
