@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2021.8.4)  4 AUG 2021 12:43
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2021.9.7)  26 OCT 2021 14:35
  restricted system commands enabled.
 **C:/Data-Analysis-Projects/CV-RMD/CVR/schramm-cv-long.tex
 (c:/Data-Analysis-Projects/CV-RMD/CVR/schramm-cv-long.tex
@@ -43,7 +43,7 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2021-07-12>
+. L3 programming layer <2021-08-27>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'.
 (c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/art
 icle.cls
@@ -139,15 +139,15 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 es/xparse/xparse.sty
 (c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel
 /expl3.sty
-Package: expl3 2021-07-12 L3 programming layer (loader) 
+Package: expl3 2021-08-27 L3 programming layer (loader) 
 
 (c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backen
 d/l3backend-luatex.def
-File: l3backend-luatex.def 2021-07-12 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2021-08-04 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count188
 \l__pdf_internal_box=\box50
 ))
-Package: xparse 2021-06-18 L3 Experimental document command parser
+Package: xparse 2021-08-27 L3 Experimental document command parser
 )
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
@@ -495,7 +495,7 @@ rs
 )
 (c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage
 /lastpage.sty
-Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
 (c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref
 /hyperref.sty
@@ -932,227 +932,240 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--170
  []
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 187.
+(Font)              scaled to size 8.0pt on input line 190.
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 187.
+(Font)              scaled to size 6.0pt on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 187.
+(Font)              <10.95> on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 187.
+(Font)              <8> on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 187.
+(Font)              <6> on input line 190.
 [1
 
 {c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}]
-Overfull \hbox (1.81363pt too wide) in paragraph at lines 215--216
+Underfull \hbox (badness 1509) in paragraph at lines 218--219
+[]\TU/EBGaramond(0)/m/n/10.95 Jain, S., & Schramm, M. (󰋜󰋚󰋜󰋛). \TU/E
+BGaramond(0)/m/it/10.95 Tech-ni-cal Sup-port Doc-u-ment for One To-tal Max-i-mum
+ Daily Load for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\TU/EBGaramond(0)/m/n/10.95 on En-vi-ron-men-tal Qual-ity. [][]$https://www.tceq
+.texas.gov/assets/public/waterquality/tmdl/108lavaca/
+ []
+
+
+Overfull \hbox (1.81363pt too wide) in paragraph at lines 220--222
 \TU/EBGaramond(0)/m/n/10.95 www.tceq.texas.gov/assets/public/waterquality/tmdl/1
 18nechestidal/118-[]nechestidal-[]bacteria-[]tsd-[]2020july.
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 220--222
+Underfull \hbox (badness 1590) in paragraph at lines 226--228
 \TU/EBGaramond(0)/m/it/10.95 In-di-ca-tor Bac-te-ria in Sandy Creek and Wolf Cre
 ek \TU/EBGaramond(0)/m/n/10.95 [Tech-ni-cal Re-port]. Texas Com-mis-sion on En-v
 i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
 \TU/EBGaramond(0)/m/n/10.95 ron-men-tal Qual-ity. [][]$https://www.tceq.texas.go
 v/assets/public/waterquality/tmdl/118sandywolfcreeks/
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 226--228
+Underfull \hbox (badness 1394) in paragraph at lines 232--234
 \TU/EBGaramond(0)/m/it/10.95 Pro-tec-tion Plan \TU/EBGaramond(0)/m/n/10.95 (Tech
 -ni-cal Re-port TR-󰋟󰋛󰋞). Texas Wa-ter Re-sources In-sti-tute. [][]$http
 s://twri.tamu.edu/
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 318--337
+Underfull \hbox (badness 1072) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋜󰋚 - 󰋜󰋚󰋜󰋛 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 318--337
+Underfull \hbox (badness 1048) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋣 - 󰋜󰋚󰋜󰋚 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 318--337
+Underfull \hbox (badness 1048) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋣 - 󰋜󰋚󰋜󰋚 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 318--337
+Underfull \hbox (badness 1275) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋢 - 󰋜󰋚󰋛󰋣 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 318--337
+Underfull \hbox (badness 1275) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋢 - 󰋜󰋚󰋛󰋣 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 318--337
+Underfull \hbox (badness 2027) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋡 - 󰋜󰋚󰋛󰋣 \TU/EBGaramond(
 0)/m/it/10.95 Texas Gen-eral Land Of-fice Coastal Man-age-ment Pro-gram\TU/EBGa
 ramond(0)/m/n/10.95 : Co-or-di-nat-ing Im-ple-men-ta-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 318--337
+Underfull \hbox (badness 1281) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋡 - 󰋜󰋚󰋛󰋢 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 318--337
+Underfull \hbox (badness 1237) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋠 - 󰋜󰋚󰋛󰋡 \TU/EBGaramond(
 0)/m/it/10.95 Texas Com-mis-sion On En-vi-ron-men-tal Qual-ity TMDL Pro-gram\TU
 /EBGaramond(0)/m/n/10.95 : Basins Ap-proach to Ad-dress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 318--337
+Underfull \hbox (badness 1418) in paragraph at lines 327--346
 \TU/EBGaramond(0)/m/n/10.95 󰋜󰋚󰋛󰋟 - 󰋜󰋚󰋛󰋡 \TU/EBGaramond(
 0)/m/it/10.95 Texas State Soil and Wa-ter Con-ser-va-tion Board\TU/EBGaramond(0
 )/m/n/10.95 : Co-or-di-nat-ing Im-ple-men-ta-tion of the Up-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--337
+Underfull \hbox (badness 10000) in paragraph at lines 327--346
 
  []
 
 [4]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 349.
-
+(Font)              scaled to size 10.95pt on input line 358.
+[5] 
 AED: lastpage setting LastPage
-[5] (./schramm-cv-long.aux)
+[6] (./schramm-cv-long.aux)
 Package rerunfilecheck Info: File `schramm-cv-long.out' has not changed.
 (rerunfilecheck)             Checksum: 60B787AA723C4A247D700EADC7756448;1723.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14892 strings out of 478095
+ 14900 strings out of 478152
  125086,794899 words of node,token memory allocated
- 538 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 13 attribute, 57 glue_spec
-, 13 attribute_list, 2 write, 8 pdf_action nodes
-   avail lists: 1:1,2:581,3:416,4:58,5:776,6:60,7:8678,8:129,9:317,10:12,11:631
- 34693 multiletter control sequences out of 65536+600000
+ 558 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 15 attribute, 57 glue_spec
+, 15 attribute_list, 2 write, 10 pdf_action nodes
+   avail lists: 1:1,2:545,3:413,4:60,5:860,6:56,7:9392,8:138,9:314,10:12,11:640
+ 34640 multiletter control sequences out of 65536+600000
  58 fonts using 9342271 bytes
- 85i,12n,112p,1240b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,12n,112p,1240b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/publ
 ic/ebgaramond/EBGaramond-Regular.otf><c:/Users/michael.schramm/AppData/Roaming/T
 inyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf><c:/Use
@@ -1162,10 +1175,10 @@ mmono10-regular.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist
 Data/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regu
 lar.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opent
 ype/public/ebgaramond/EBGaramond-Bold.otf>
-Output written on schramm-cv-long.pdf (5 pages, 63071 bytes).
+Output written on schramm-cv-long.pdf (6 pages, 64752 bytes).
 
-PDF statistics: 232 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 131072)
+PDF statistics: 244 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 131072)
  113 words of extra memory for PDF output out of 10000 (max. 100000000)
 
