@@ -12,6 +12,6 @@ document updates. This approach is heavily based on the
 
 ![](Images/resume-screenshot.png)<!-- -->
 
-[CV](https://github.com/mps9506/CV-RMD/raw/master/CV/schramm-cv-long.pdf)
+[CV](https://github.com/mps9506/CV-RMD/raw/master/CVR/schramm-cv-long.pdf)
 
 ![](Images/cv-screenshot.png)<!-- -->

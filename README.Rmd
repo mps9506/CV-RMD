@@ -16,7 +16,7 @@ This repository contains my resume and CV. R scripts for generating each file ar
 knitr::include_graphics("Images/resume-screenshot.png")
 ```
 
-[CV](https://github.com/mps9506/CV-RMD/raw/master/CV/schramm-cv-long.pdf)
+[CV](https://github.com/mps9506/CV-RMD/raw/master/CVR/schramm-cv-long.pdf)
 
 ```{r}
 knitr::include_graphics("Images/cv-screenshot.png")
