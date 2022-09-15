@@ -37,7 +37,7 @@ build_cv(full_name = "Michael Schramm",
          rmd_template = "svm_cv",
          spell_check = FALSE,
          yml = list(settitle = "CV",
-                    setphone = "979-458-9191",
-                    setaddress = "578 John Kimbrough Blvd · 2260 TAMU · College Station, TX 77843",
+                    setphone = "979-314-2356",
+                    setaddress = "1001 Holleman Dr. East · 2118 TAMU · College Station, TX 77840",
                     setemail = "michael.schramm@ag.tamu.edu"))
 

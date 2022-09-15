@@ -10,8 +10,8 @@ document updates. This approach is heavily based on the
 
 [Resume](https://github.com/mps9506/CV-RMD/raw/master/Resume/Schramm_Resume.pdf)
 
-<img src="Images/resume-screenshot.png" width="1920" />
+![](Images/resume-screenshot.png)<!-- -->
 
-[CV](https://github.com/mps9506/CV-RMD/raw/master/CV/CV.pdf)
+[CV](https://github.com/mps9506/CV-RMD/raw/master/CV/schramm-cv-long.pdf)
 
-<img src="Images/cv-screenshot.png" width="1920" />
+![](Images/cv-screenshot.png)<!-- -->
