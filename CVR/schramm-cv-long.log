@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.15)  15 SEP 2022 14:58
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.15)  15 SEP 2022 15:10
  restricted system commands enabled.
 **C:/Data-Analysis-Projects/CV-RMD/CVR/schramm-cv-long.tex
 (c:/Data-Analysis-Projects/CV-RMD/CVR/schramm-cv-long.tex
@@ -728,6 +728,11 @@ Overfull \hbox (44.0269pt too wide) in paragraph at lines 220--222
  []
 
 
+Underfull \hbox (badness 4739) in paragraph at lines 223--225
+\TU/EBGaramond(0)/m/n/10.95 Qual-ity. [][]$https://www.tceq.texas.gov/downloads/water-[]quality/tmdl/neches-[]river-[]tidal-[]recreational-[]118/
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 226--228
 \TU/EBGaramond(0)/m/n/10.95 ity. [][]$https://www.tceq.texas.gov/downloads/water-[]quality/tmdl/hillebrandt-[]bayou-[]recreational-[]118/
  []
@@ -737,12 +742,17 @@ Underfull \hbox (badness 2181) in paragraph at lines 229--231
 \TU/EBGaramond(0)/m/n/10.95 Qual-ity. [][]$https://www.tceq.texas.gov/downloads/water-[]quality/tmdl/sandy-[]wolf-[]creeks-[]recreational-[]118/
  []
 
-
+[2]
 Underfull \hbox (badness 1394) in paragraph at lines 235--237
 \TU/EBGaramond(0)/m/it/10.95 Pro-tec-tion Plan \TU/EBGaramond(0)/m/n/10.95 (Tech-ni-cal Re-port TR-󰋟󰋛󰋞). Texas Wa-ter Re-sources In-sti-tute. [][]$https://twri.tamu.edu/
  []
 
-[2]
+
+Underfull \hbox (badness 4217) in paragraph at lines 238--240
+\TU/EBGaramond(0)/m/n/10.95 tal Qual-ity. [][]$https://www.tceq.texas.gov/downloads/water-[]quality/tmdl/arenosa-[]creek-[]recreational-[]108/
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 247--249
 \TU/EBGaramond(0)/m/n/10.95 ity. [][]$https://www.tceq.texas.gov/downloads/water-[]quality/tmdl/mission-[]aransas-[]rivers-[]recreational-[]76/
  []
@@ -925,17 +935,17 @@ Package rerunfilecheck Info: File `schramm-cv-long.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  15485 strings out of 477465
  125086,794899 words of node,token memory allocated
- 568 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 16 attribute, 57 glue_spec, 16 attribute_list, 2 write, 11 pdf_action nodes
-   avail lists: 1:1,2:610,3:446,4:56,5:883,6:50,7:10253,8:182,9:321,10:12,11:670
+ 598 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 19 attribute, 57 glue_spec, 19 attribute_list, 2 write, 14 pdf_action nodes
+   avail lists: 1:1,2:682,3:446,4:60,5:878,6:49,7:10067,8:183,9:321,10:12,11:637
  35905 multiletter control sequences out of 65536+600000
  50 fonts using 7516655 bytes
  87i,12n,112p,1240b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regular.otf><c:/Users/michael.schramm/AppData/Roaming/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Bold.otf>
-Output written on schramm-cv-long.pdf (6 pages, 65831 bytes).
+Output written on schramm-cv-long.pdf (6 pages, 66740 bytes).
 
-PDF statistics: 245 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
+PDF statistics: 251 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
  77 named destinations out of 1000 (max. 131072)
  113 words of extra memory for PDF output out of 10000 (max. 100000000)
 
